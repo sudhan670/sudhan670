@@ -3,11 +3,11 @@
 <img align="right" alt="coding" src="https://i.postimg.cc/Pryy1S1g/source.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhan670&label=Profile%20views&color=0e75b6&style=flat" alt="sudhan670" /> </p>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://sudhaned-port-live.netlify.app](https://sudhaned-port-live.netlify.app)
 
-- 💬 Ask me about **React,Mern**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **sudhaned08@gmail.com**
 
