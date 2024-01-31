@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudhan E D</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" src="https://i.postimg.cc/Pryy1S1g/source.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhan670&label=Profile%20views&color=0e75b6&style=flat" alt="sudhan670" /> </p>
+<p align="left"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstorage.googleapis.com%2Fpai-images%2F16b825e6efc144d7b4b0d1848edf3f4c.jpeg&tbnid=cHofPIS88T4bxM&vet=10CAYQxiAoCGoXChMI-N3NuOqGhAMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fplaygroundai.com%2Fsearch%3Fq%3Da%2Bnerdy%2Bboy%2Bis%2Bprogramming%2Bat%2Ba%2Bcomputer%2Bin%2Ba%2Broom%2Bfull%2Bof%2Bgadgets&docid=eanbZD8MEquOaM&w=1024&h=1024&itg=1&q=coding%20boy%20images%20for%20background%20anime%20github&hl=en&ved=0CAYQxiAoCGoXChMI-N3NuOqGhAMVAAAAAB0AAAAAEAc" alt="sudhan670" /> </p>
 
 - 🌱 I’m currently learning **MERN**
 
