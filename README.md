@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhan E D</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | Cybersecurity Enthusiast | MERN Stack Learner</h3>
+<h3 align="center">🚀 Passionate Full-Stack Developer | Software Engineer  | MERN Stack Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=22C8E8&center=true&vCenter=true&width=440&lines=Crafting+Modern+Web+Applications;Solving+Complex+Problems;Embracing+Technology+%26+Growth" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 <p align="left">
 - 🌱 I’m currently diving deeper into **MERN Stack Development** and exploring **Cybersecurity**.<br>
-- 👨‍💻 Check out my projects at my portfolio: [Sudhan's Portfolio](https://sudhaned-port-live.netlify.app)<br>
+- 👨‍💻 Check out my projects at my portfolio: [Sudhan's Portfolio](https://sudhaned-port.netlify.app)<br>
 - 💬 Let's discuss **React, Node.js, Cybersecurity**, or anything tech!<br>
 - 📫 Reach me at **sudhaned08@gmail.com**<br>
 </p>
@@ -69,13 +69,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
 </p>
-
 ---
-
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudhan670&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
