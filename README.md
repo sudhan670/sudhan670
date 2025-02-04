@@ -24,7 +24,7 @@
   <a href="https://github.com/sudhan670" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="40" width="40" />
   </a>
-  <a href="https://www.leetcode.com/sudhandurai670" target="_blank">
+  <a href="https://www.leetcode.com/sudhaned" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>
   <a href="https://www.hackerearth.com/@sudhaned670" target="_blank">
