@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🌱 I’m currently diving deeper into **MERN Stack Development** and exploring **Cybersecurity**.  
-- 👨‍💻 Check out my projects at my portfolio: [Sudhan's Portfolio](https://sudhaned-port.netlify.app)  
+- 👨‍💻 Check out my projects at my portfolio: [Sudhan's Portfolio](https://subtle-gumdrop-0c6ae4.netlify.app/)  
 - 💬 Let's discuss **React, Node.js, Cybersecurity**, or anything tech!  
 - 📫 Reach me at **sudhaned08@gmail.com**  
 
