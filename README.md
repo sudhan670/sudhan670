@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhan E D</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | Software Engineer | MERN Stack Learner</h3>
+<h3 align="center">🚀 Passionate Full-Stack Developer | Software Engineer | MERN Stack Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=22C8E8&center=true&vCenter=true&width=600&lines=Crafting+Modern+Web+Applications;Solving+Complex+Problems;Embracing+Technology+%26+Growth" alt="Typing SVG" />
@@ -7,15 +7,15 @@
 
 ---
 
-### 🚀 About Me
-- 🌱 I’m currently diving deeper into **MERN Stack Development** and exploring **Cybersecurity**.  
-- 👨‍💻 Check out my projects at my portfolio: [Sudhan's Portfolio](https://subtle-gumdrop-0c6ae4.netlify.app/)  
-- 💬 Let's discuss **React, Node.js, Cybersecurity**, or anything tech!  
+## 🚀 About Me
+- 🌱 Currently diving deeper into **MERN Stack Development** and exploring **Cybersecurity & AI**  
+- 👨‍💻 Check out my portfolio: [Sudhan's Portfolio](https://subtle-gumdrop-0c6ae4.netlify.app/)  
+- 💬 Let's discuss **React, Node.js, Cybersecurity, AI/ML**, or anything tech!  
 - 📫 Reach me at **sudhaned08@gmail.com**  
 
 ---
 
-<h3 align="center">📬 Connect with Me:</h3>
+## 📬 Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/sudhaned" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -26,14 +26,14 @@
   <a href="https://www.leetcode.com/sudhaned" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://www.hackerearth.com/@sudhaned670" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/>
+  <a href="https://huggingface.co/sudhaned" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFBB00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools:</h3>
+## 🛠️ Languages and Tools:
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
@@ -59,26 +59,23 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
   </a> 
-  <a href="https://www.ruby-lang.org/en/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="50" height="50" />
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" />
   </a>
-  <a href="https://rubyonrails.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" width="50" height="50" />
+  <a href="https://scipy.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="50" height="50" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
+## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudhan670&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
