@@ -80,10 +80,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sudhan670&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=sudhan670&theme=radical" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhan670&layout=compact&theme=radical" alt="Top Languages" />
+</p> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=sudhan670&theme=radical" alt='new' />
 </p>
 
 ---
