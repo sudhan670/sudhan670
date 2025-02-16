@@ -80,7 +80,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sudhan670&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhan670&theme=radical" alt="GitHub Streak" />
+  https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudhan670&theme=radical
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhan670&layout=compact&theme=radical" alt="Top Languages" />
