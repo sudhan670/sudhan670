@@ -83,7 +83,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhan670&layout=compact&theme=radical" alt="Top Languages" />
 </p> 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=sudhan670&theme=radical" alt='new' />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sudhan670&theme=radical" />
 </p>
 
 ---
