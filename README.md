@@ -11,7 +11,7 @@
 - 🌱 Currently diving deeper into **MERN Stack Development** and exploring **Cybersecurity & AI**  
 - 👨‍💻 Check out my portfolio: [Sudhan's Portfolio](https://subtle-gumdrop-0c6ae4.netlify.app/)  
 - 💬 Let's discuss **React, Node.js, Cybersecurity, AI/ML**, or anything tech!  
-- 📫 Reach me at **sudhaned08@gmail.com**  
+- 👨‍💻 Reach me at **sudhaned08@gmail.com**  
 
 ---
 
@@ -41,35 +41,29 @@
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
   </a>
+  <a href="https://rubyonrails.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" alt="Ruby on Rails" width="50" height="50" />
+  </a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="50" height="50" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" />
+  </a>
+  <a href="https://hotwired.dev/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4" alt="Hotwire" width="50" height="50" />
+  </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
   </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" />
-  </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  </a> 
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" />
-  </a>
-  <a href="https://scipy.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="50" height="50" />
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" />
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50" />
   </a>
 </p>
 
@@ -88,4 +82,4 @@
 
 ---
 
-✨ **Thanks for stopping by! Let's connect and build something amazing together.** 🚀
+🌟 **Thanks for stopping by! Let's connect and build something amazing together.** 🚀
