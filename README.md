@@ -1,7 +1,10 @@
 <div align="center">
   
   # SUDHAN ED
-  
+  <video width="720" controls>
+  <source src="code.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=300&color=4D84F3&center=true&vCenter=true&random=false&width=600&height=75&lines=Full-Stack+Developer;Software+Engineer;Ruby+On+Rails+Expert;MERN+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" /></a>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://subtle-gumdrop-0c6ae4.netlify.app/)
