@@ -4,7 +4,7 @@
  
   <source src="male-programmer-doing-coding-work-9560195-7793573.mp4" type="video/mp4">
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=300&color=4D84F3&center=true&vCenter=true&random=false&width=600&height=75&lines=Full-Stack+Developer;Software+Engineer;Ruby+On+Rails+Expert;MERN+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=300&color=4D84F3&center=true&vCenter=true&random=false&width=600&height=75&lines=Full-Stack+Developer;Software+Engineer;Ruby+On+Rails+Developer;MERN+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" /></a>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://subtle-gumdrop-0c6ae4.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhaned)
