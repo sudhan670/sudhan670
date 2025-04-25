@@ -1,5 +1,5 @@
 # SUDHAN E D
-> Full-Stack Developer | Ruby on Rails Engineer | MERN Stack Developer
+> Backend Developer | Ruby on Rails Engineer | AI enhusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=GoogleChrome&logoColor=white)](https://subtle-gumdrop-0c6ae4.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhaned)
