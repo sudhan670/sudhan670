@@ -24,7 +24,7 @@ const SUDHAN = {
 ```
 
 - 🔭 Currently working on **Ruby On Rails** projects
-- 🌱 Expanding knowledge in **Rails, PostgreSQL, and Node.js**
+- 🌱 Expanding knowledge in **Rails, PostgreSQL, and Python**
 - 👯 Looking to collaborate on **Backend Development** projects
 - 👨‍💻 All projects available on my [portfolio](https://subtle-gumdrop-0c6ae4.netlify.app/)
 
