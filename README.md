@@ -28,6 +28,11 @@ const SUDHAN = {
 - 👯 Looking to collaborate on **Backend Development** projects
 - 👨‍💻 All projects available on my [portfolio](https://subtle-gumdrop-0c6ae4.netlify.app/)
 
+📊 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhan670&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" alt="Most Used Languages" />
+</div>
+
 ## 💻 Tech Stack
 
 <div align="center">
