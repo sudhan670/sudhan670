@@ -23,15 +23,6 @@
 ## 🚀 About Me
 
 ```typescript
-interface Developer {
-  name: string;
-  role: string;
-  currentFocus: string[];
-  technologies: string[];
-  passions: string[];
-  collaboration: string;
-}
-
 const sudhan: Developer = {
   name: "Sudhan E D",
   role: "Full-Stack Developer & Software Engineer",
