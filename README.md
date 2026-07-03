@@ -8,7 +8,7 @@ Building scalable web applications with modern technologies.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=2E8BFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Engineer;Python+%7C+Node.js+%7C+React;Ruby+on+Rails+Developer;Always+Learning+New+Technologies" />
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge)](https://subtle-gumdrop-0c6ae4.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge)](https://sudhaned-portfolio-live.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sudhaned)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:sudhaned08@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View-success?style=for-the-badge)](https://drive.google.com/file/d/10cu_FLttLnMEA1zk9UkJ670OuSQwxYnj/view)
