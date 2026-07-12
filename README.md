@@ -1,42 +1,61 @@
 <div align="center">
 
-# 👋 Hi, I'm Sudhan E D
+# Hi there 👋, I'm Sudhan E D
 
-### Software Engineer • Full-Stack Developer • Backend Engineer
+### Software Engineer | Backend Engineer | Full Stack Developer
 
-Building scalable web applications with modern technologies.
+Building scalable backend systems, REST APIs, AI-powered applications, and modern web platforms.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=2E8BFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Engineer;Python+%7C+Node.js+%7C+React;Ruby+on+Rails+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E8BFF&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+Developer;Ruby+on+Rails+Developer;Python+%7C+FastAPI+%7C+Node.js;React+Developer;AWS+%7C+PostgreSQL+%7C+Docker;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge)](https://sudhaned-portfolio-live.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sudhaned)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:sudhaned08@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-success?style=for-the-badge)](https://drive.google.com/file/d/10cu_FLttLnMEA1zk9UkJ670OuSQwxYnj/view)
+<p>
+<a href="https://sudhaned-portfolio-live.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/sudhaned">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sudhaned08@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/10cu_FLttLnMEA1zk9UkJ670OuSQwxYnj/view">
+<img src="https://img.shields.io/badge/Resume-View-success?style=for-the-badge"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 ```python
 class SudhanED:
 
     def __init__(self):
+
         self.role = "Software Engineer"
+
         self.location = "India"
+
+        self.experience = "1+ Years"
 
         self.languages = [
             "Python",
             "JavaScript",
             "TypeScript",
-            "Ruby"
+            "Ruby",
+            "SQL"
         ]
 
         self.backend = [
+            "Ruby on Rails",
+            "FastAPI",
             "Node.js",
             "Express",
-            "Ruby on Rails",
             "Flask"
         ]
 
@@ -44,127 +63,168 @@ class SudhanED:
             "React",
             "Tailwind CSS",
             "HTML",
-            "CSS"
+            "CSS",
+            "JavaScript"
         ]
 
         self.database = [
             "PostgreSQL",
+            "MySQL",
             "MongoDB",
-            "Supabase"
+            "Redis"
+        ]
+
+        self.cloud = [
+            "AWS EC2",
+            "AWS RDS",
+            "AWS S3",
+            "IAM",
+            "CloudWatch"
         ]
 
         self.tools = [
-            "Git",
             "Docker",
+            "Git",
             "Linux",
             "Postman"
         ]
 
-    def current_focus(self):
+    def interests(self):
         return [
-            "System Design",
+            "Backend Engineering",
             "Distributed Systems",
-            "Backend Development",
-            "Data Structures & Algorithms"
+            "System Design",
+            "Cloud Computing",
+            "Generative AI",
+            "Open Source"
         ]
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
 ## Languages
 
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![Ruby](https://skillicons.dev/icons?i=ruby)
-
----
-
-## Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,ruby,java"/>
+</p>
 
 ## Backend
 
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Rails](https://skillicons.dev/icons?i=rails)
-![Flask](https://skillicons.dev/icons?i=flask)
+<p>
+<img src="https://skillicons.dev/icons?i=rails,nodejs,express,flask,fastapi"/>
+</p>
 
----
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/>
+</p>
 
 ## Database
 
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Supabase](https://skillicons.dev/icons?i=supabase)
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,linux,postman"/>
+</p>
 
 ---
 
-## DevOps & Tools
+# 💼 Professional Experience
 
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Postman](https://skillicons.dev/icons?i=postman)
+### Software Engineer I
+**Dayspring Technologies** *(May 2025 – Mar 2026)*
+
+- Developed scalable Ruby on Rails applications.
+- Built and maintained REST APIs.
+- Worked with PostgreSQL and Redis.
+- Implemented Shopify Bulk API integrations.
+- Improved report scheduler and background jobs.
+- Optimized SQL queries for production systems.
+- Integrated third-party services including Easyship and Workmate.
+- Collaborated with Agile teams to deliver production-ready software.
 
 ---
 
 # 🌟 Featured Projects
 
-## 🤖 AI Resume Builder
+## 🤖 AI Bio Generator
 
-> AI-powered Resume Builder using Gemini AI with ATS optimization.
+Generate professional bios using Google's Gemini AI.
+
+**Tech Stack**
+
+- Python
+- Flask
+- Gemini API
+- HTML
+- CSS
+
+### Features
+
+- AI-generated bios
+- Multiple writing styles
+- Instant generation
+- Responsive UI
+
+---
+
+## 🛒 Strike Shop (E-Commerce)
+
+Modern full-stack shopping platform.
 
 **Tech Stack**
 
 - React
 - Node.js
 - Express
-- Supabase
-- Gemini AI
+- PostgreSQL
+- JWT
 
 ### Features
 
-- AI Resume Generation
-- ATS Score Analysis
-- Resume Templates
-- PDF Download
-- Authentication
-- Dashboard
+- User Authentication
+- Product Management
+- Shopping Cart
+- Orders
+- Secure REST APIs
 
 ---
 
-## 📄 Smart Document Scanner
+## ☁ AWS Authentication System
 
-Scan documents using OpenCV and AI image enhancement.
+Authentication system deployed using AWS RDS.
 
-**Tech**
+**Tech Stack**
 
-- Python
-- OpenCV
-- Flask
+- Node.js
+- Express
+- PostgreSQL
+- AWS RDS
+- JWT
+- bcrypt
 
-✔ Perspective Correction
+### Features
 
-✔ OCR Ready
-
-✔ Image Enhancement
+- Register
+- Login
+- JWT Authentication
+- Password Hashing
+- CRUD APIs
 
 ---
 
 ## 🚌 Electric Bus Scheduler
 
-Optimizes electric bus schedules and charging stations.
+Optimized electric bus scheduling and charging allocation.
 
-**Tech**
+**Tech Stack**
 
 - React
 - Flask
@@ -172,26 +232,7 @@ Optimizes electric bus schedules and charging stations.
 
 ---
 
-## 🏢 Meeting Room Booking System
-
-Enterprise booking platform.
-
-**Tech**
-
-- React
-- Node.js
-- MongoDB
-
-Features
-
-- Authentication
-- Booking Management
-- Admin Dashboard
-- Notifications
-
----
-
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -211,31 +252,29 @@ Features
 
 # 🏆 Coding Profiles
 
-<div align="center">
-
 | Platform | Profile |
-|-----------|---------|
+|----------|---------|
 | 💻 LeetCode | https://leetcode.com/sudhaned |
 | 🏆 HackerRank | https://hackerrank.com/sudhaned670 |
 | 🐙 GitHub | https://github.com/sudhan670 |
 | 💼 LinkedIn | https://linkedin.com/in/sudhaned |
 
-</div>
-
 ---
 
-# 📚 Currently Learning
+# 🌱 Currently Learning
 
-- Advanced System Design
 - Distributed Systems
-- Docker & Kubernetes
-- AWS
+- System Design
+- Kubernetes
+- AWS Services
 - Redis
 - Microservices
+- Generative AI
+- LangChain & LangGraph
 
 ---
 
-# 📫 Let's Connect
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -244,15 +283,15 @@ Features
 </a>
 
 <a href="https://linkedin.com/in/sudhaned">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sudhan670">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://subtle-gumdrop-0c6ae4.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge"/>
+<a href="https://sudhaned-portfolio-live.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
 
 </p>
@@ -261,9 +300,9 @@ Features
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-_"Code. Learn. Build. Repeat."_
+> *"Code. Learn. Build. Repeat."*
 
 <img src="https://komarev.com/ghpvc/?username=sudhan670&style=for-the-badge"/>
 
