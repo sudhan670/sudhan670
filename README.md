@@ -113,7 +113,7 @@ class SudhanED:
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=rails,nodejs,express,flask,fastapi"/>
+<img src="https://skillicons.dev/icons?i=rails,nodejs,express,fastapi"/>
 </p>
 
 ## Frontend
@@ -161,8 +161,9 @@ Generate professional bios using Google's Gemini AI.
 **Tech Stack**
 
 - Python
-- Flask
+- FastAPI
 - Gemini API
+- JavaScript
 - HTML
 - CSS
 
