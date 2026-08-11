@@ -54,14 +54,11 @@ class SudhanED:
         self.backend = [
             "Ruby on Rails",
             "FastAPI",
-            "Node.js",
-            "Express",
             "Flask"
         ]
 
         self.frontend = [
             "React",
-            "Tailwind CSS",
             "HTML",
             "CSS",
             "JavaScript"
